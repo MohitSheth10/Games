@@ -162,7 +162,7 @@ def my_click_function(x, y):
             t.pencolor("red")
             t.goto(-140,200)
             t.pendown()
-            t.write("Player A WINS", font=("Arial", 32, "bold"))
+            t.write("Player B WINS", font=("Arial", 32, "bold"))
             t.onscreenclick(None)
             return
     
